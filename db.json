@@ -1,25 +1,31 @@
-{
-  "interestCodes": [
-    {
-      "code": 119,
-      "codeString": "Concern percentage particulieren",
-      "mutationDetails": null,
-      "startDate": null,
-      "status": null
+[
+  {
+    "basicDetails": {
+      "startDate": 1564499763657,
+      "code": 1,
+      "status": "B",
+      "mutationDetails": {
+        "userIdMutation": "C35814",
+        "userIdDualControl": "C47152",
+        "userIdRemoval": null,
+        "userIdDeleting": null,
+        "creationDate": -2013,
+        "mutationDate": "12-06-2019"
+      },
+      "codeString": "ESTR"
     },
-    {
-      "code": 29,
-      "codeString": "SOFR",
-      "mutationDetails": null,
-      "startDate": null,
-      "status": null
-    },
-    {
-      "code": 120,
-      "codeString": "Base percentage particulieren",
-      "mutationDetails": null,
-      "startDate": null,
-      "status": null
+    "additionalInfo": {
+      "currency": "EUR",
+      "processToRROnline": "O",
+      "codeerInterestCode": "C",
+      "interestCode": 1,
+      "interestPeriod": "M",
+      "interestCodesList": [
+        "21",
+        "22",
+        "23"
+      ],
+      "debitCreditTypeIndicator": 1
     }
-  ]
-}
+  }
+]
