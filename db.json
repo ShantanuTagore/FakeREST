@@ -1,25 +1,25 @@
 {
   "interestCodes": [
-          {
-            "code": 119
-            "codeString": "Concern percentage particulieren"
-            "mutationDetails": null
-            "startDate": null
-            "status": null
-          },
-          {
-            "code": 119
-            "codeString": "Concern percentage particulieren"
-            "mutationDetails": null
-            "startDate": null
-            "status": null
-          },
-          {
-            "code": 119
-            "codeString": "Concern percentage particulieren"
-            "mutationDetails": null
-            "startDate": null
-            "status": null
-          }
-     ]
+    {
+      "code": 119,
+      "codeString": "Concern percentage particulieren",
+      "mutationDetails": null,
+      "startDate": null,
+      "status": null
+    },
+    {
+      "code": 29,
+      "codeString": "SOFR",
+      "mutationDetails": null,
+      "startDate": null,
+      "status": null
+    },
+    {
+      "code": 120,
+      "codeString": "Base percentage particulieren",
+      "mutationDetails": null,
+      "startDate": null,
+      "status": null
+    }
+  ]
 }
